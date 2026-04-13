@@ -1,0 +1,38 @@
+## name: Madness Black
+## author: foliea
+
+[colors.primary]
+background = '#000000'
+foreground = '#eeeeee'
+
+[colors.selection]
+background = '#404040'
+text = '#eeeeee'
+
+[colors.cursor]
+cursor = '#eeeeee'
+text = '#000000'
+
+[colors.vi_mode_cursor]
+cursor = '#9d7cd8'
+text = '#000000'
+
+[colors.normal]
+black = '#000000'
+red = '#e06c75'
+green = '#7fd88f'
+yellow = '#e5c07b'
+blue = '#5c9cf5'
+magenta = '#9d7cd8'
+cyan = '#56b6c2'
+white = '#ffffff'
+
+[colors.bright]
+black = '#808080'
+red = '#e06c75'
+green = '#7fd88f'
+yellow = '#e5c07b'
+blue = '#5c9cf5'
+magenta = '#9d7cd8'
+cyan = '#56b6c2'
+white = '#ffffff'
