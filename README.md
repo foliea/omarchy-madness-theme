@@ -12,11 +12,7 @@ omarchy-theme-install https://github.com/foliea/omarchy-madness-theme
 
 ## Neovim theme
 
-Custom colorscheme for Neovim.
-
-```bash
-cp colors/base16-madness-black.lua ~/.config/nvim/colors/
-```
+Custom colorscheme powered by [base16-madness.nvim](https://github.com/foliea/base16-madness.nvim). Installed automatically via the `neovim.lua` plugin spec.
 
 ## X.com
 
